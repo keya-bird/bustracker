@@ -7,5 +7,6 @@ To run this project download the files and open the index.html file via a browse
 # Roadmap
 One improvment could be to have the cat image follow each bus stop location.  I also removed one of the styles on the menu because to me the 'outdoor' and also the 'street' view seemed identical in appearance to me so I removed the 'street view'.
 # License Information
+See MIT License Information 
 
 <img src="bus_tracker_img.jpg">
